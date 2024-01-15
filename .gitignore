@@ -2,8 +2,11 @@
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
+
+
+### Homework ###
 .idea/
-QAJava.iml
+*.iml
 
 
 ### Eclipse ###
